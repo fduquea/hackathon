@@ -51,7 +51,7 @@ def get_elcorteingles_data(products_id):
                         print(f"Store name: El Corte Inglés")
                         print(f"Wine name: {key}")
                         print(f"Harvest year: N/A [TODO]")
-                        print(f"Capacity: {capacity}cl")
+                        print(f"Capacity: {capacity} cl")
                         print(f"Discount: [TODO]")
                         print(f"Price and currency: {price}")
                         print(f"Date of scraping: {date_string}, WEST timezone")
