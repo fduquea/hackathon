@@ -1,0 +1,80 @@
+Store name: Continente
+Wine name: Mateus Rosé Original
+Harvest year: N/A
+Capacity: 75 cl
+Discount: TODO
+Price and currency: 4,49 €
+Date of scraping: 24/10/2023 21:30:33, WEST timezone
+Location: Portugal // TODO
+Product link: https://www.continente.pt/produto/mateus-vinho-rose-mateus-2050174.html
+
+Store name: Continente
+Wine name: Mateus Sparkling
+Harvest year: N/A
+Capacity: 75 cl
+Discount: TODO
+Price and currency: 6,99 €
+Date of scraping: 24/10/2023 21:30:35, WEST timezone
+Location: Portugal // TODO
+Product link: https://www.continente.pt/produto/mateus-sparkling-espumante-rose-bruto-mateus-4342301.html
+
+Store name: Continente
+Wine name: Trinca Bolotas Tinto
+Harvest year: N/A
+Capacity: 75 cl
+Discount: TODO
+Price and currency: 6,99 €
+Date of scraping: 24/10/2023 21:30:37, WEST timezone
+Location: Portugal // TODO
+Product link: https://www.continente.pt/produto/trinca-bolotas-regional-alentejano-vinho-tinto-trinca-bolotas-5471317.html
+
+Store name: Continente
+Wine name: Papa Figos Branco
+Harvest year: N/A
+Capacity: 75 cl
+Discount: TODO
+Price and currency: 7,99 €
+Date of scraping: 24/10/2023 21:30:39, WEST timezone
+Location: Portugal // TODO
+Product link: https://www.continente.pt/produto/papa-figos-doc-douro-vinho-branco-papa-figos-6274693.html
+
+Store name: El Corte Inglés
+Wine name: Mateus Rosé Original
+Harvest year: N/A [TODO]
+Capacity: 75 cl
+Discount: [TODO]
+Price and currency: 4.49 €
+Date of scraping: 24/10/2023 21:30:41, WEST timezone
+Location: Portugal [TODO]
+Product link: https://www.elcorteingles.pt/supermercado/0105218714000033-mateus-vinho-rose-garrafa-75-cl/
+
+Store name: El Corte Inglés
+Wine name: Mateus Sparkling
+Harvest year: N/A [TODO]
+Capacity: 75 cl
+Discount: [TODO]
+Price and currency: 6.99 €
+Date of scraping: 24/10/2023 21:30:43, WEST timezone
+Location: Portugal [TODO]
+Product link: https://www.elcorteingles.pt/supermercado/0105218731401859-mateus-espumante-sparkling-rose-bruto-garrafa-75-cl/
+
+Store name: El Corte Inglés
+Wine name: Trinca Bolotas Tinto
+Harvest year: N/A [TODO]
+Capacity: 75 cl
+Discount: [TODO]
+Price and currency: 6.99 €
+Date of scraping: 24/10/2023 21:30:46, WEST timezone
+Location: Portugal [TODO]
+Product link: https://www.elcorteingles.pt/supermercado/0105218722001098-trinca-bolotas-vinho-tinto-regional-do-alentejo-garrafa-75-cl/
+
+Store name: El Corte Inglés
+Wine name: Papa Figos Branco
+Harvest year: N/A [TODO]
+Capacity: 75 cl
+Discount: [TODO]
+Price and currency: 7.99 €
+Date of scraping: 24/10/2023 21:30:48, WEST timezone
+Location: Portugal [TODO]
+Product link: https://www.elcorteingles.pt/supermercado/0105218705602987-papa-figos-vinho-branco-do-douro-garrafa-75-cl/
+
