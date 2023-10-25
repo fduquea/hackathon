@@ -2,9 +2,7 @@ import requests, continente, elcorteingles
 from bs4 import BeautifulSoup
 from datetime import datetime
 from fake_useragent import UserAgent
-import mysql.connector
 
-db_connection = mysql.connector.connect(host='35.234.124.11', database='wines', user='root', password='root')
 
 # URL da página do artigo
 url_continente = "https://www.continente.pt/"

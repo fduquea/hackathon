@@ -71,6 +71,14 @@ def get_continente_data(products_id):
                     soup = BeautifulSoup(chrome.page_source, "html.parser")
 
                     #check for discount
+                    if "ct-product-tile-badge-value--pvpr col-product-tile-badge-value--pvpr " in chrome.page_source:
+                        discount_bool = 1
+                    else:
+                        discount_bool = 0
+
+                    if discount_bool == 1:
+                        tag = soup.find("span", {"class": "ct-product-tile-badge-value--pvpr"})
+                        discount = tag.text.strip()
 
                     # find the price
                     price = soup.find("span", class_="ct-price-formatted")
